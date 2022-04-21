@@ -1,0 +1,18 @@
+$base: #c6538c;
+
+body {
+  div {
+    font-size: 20px;
+    color: red;
+
+    p {
+      color: pink;
+    }
+
+    background-color: $base;
+  }
+
+  p {
+    color: blue;
+  }
+}

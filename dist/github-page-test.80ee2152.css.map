@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAGE;EACE;EACA;EAMA,kBAXG;;AAOH;EACE;;AAMJ;EACE","file":"github-page-test.80ee2152.css","sourceRoot":"..","sourcesContent":["$base: #c6538c;\n\nbody {\n  div {\n    font-size: 20px;\n    color: red;\n\n    p {\n      color: pink;\n    }\n\n    background-color: $base;\n  }\n\n  p {\n    color: blue;\n  }\n}\n"]}
